@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helm on ZB</title>
+    <link>https://k8sz.github.io/tags/helm/</link>
+    <description>Recent content in helm on ZB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://k8sz.github.io/tags/helm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>kubernetes之Helm安装</title>
+      <link>https://k8sz.github.io/post/kuberneteshelm/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/post/kuberneteshelm/</guid>
+      <description>&lt;p&gt;Helm可帮助您管理Kubernetes应用程序 - Helm Charts可帮助您定义，安装和升级最复杂的Kubernetes应用程序。Helm就相当于kubernetes环境下的yum包管理工具。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

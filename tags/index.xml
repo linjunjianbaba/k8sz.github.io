@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ZB</title>
+    <link>https://k8sz.github.io/tags/</link>
+    <description>Recent content in Tags on ZB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://k8sz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cicd</title>
+      <link>https://k8sz.github.io/tags/cicd/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/cicd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://k8sz.github.io/tags/devops/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://k8sz.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prometheus</title>
+      <link>https://k8sz.github.io/tags/prometheus/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>监控</title>
+      <link>https://k8sz.github.io/tags/%E7%9B%91%E6%8E%A7/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/%E7%9B%91%E6%8E%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci/cd</title>
+      <link>https://k8sz.github.io/tags/ci/cd/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://k8sz.github.io/tags/docker/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drone</title>
+      <link>https://k8sz.github.io/tags/drone/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gogs</title>
+      <link>https://k8sz.github.io/tags/gogs/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/gogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubectl</title>
+      <link>https://k8sz.github.io/tags/kubectl/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/kubectl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ldap</title>
+      <link>https://k8sz.github.io/tags/ldap/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/ldap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yaml</title>
+      <link>https://k8sz.github.io/tags/yaml/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://k8sz.github.io/tags/git/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helm</title>
+      <link>https://k8sz.github.io/tags/helm/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubeadm</title>
+      <link>https://k8sz.github.io/tags/kubeadm/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/kubeadm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dockerfile</title>
+      <link>https://k8sz.github.io/tags/dockerfile/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/dockerfile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://k8sz.github.io/tags/life/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motivational</title>
+      <link>https://k8sz.github.io/tags/motivational/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/motivational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>win</title>
+      <link>https://k8sz.github.io/tags/win/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k8sz.github.io/tags/win/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
